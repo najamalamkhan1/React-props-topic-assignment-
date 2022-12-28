@@ -1,0 +1,42 @@
+.container{
+    background-image: linear-gradient(170deg, whitesmoke,orange,whitesmoke);
+    height: 345px;
+    width: 190px;
+    margin: 9px;
+    border: 2px solid wheat;
+    border-radius: 5px;
+    box-shadow: 5px 0px 5px 0px antiquewhite;
+    font-size: large;
+    font-family: cursive;
+    display: inline-block;
+    margin-right: 13px;
+}
+.container:hover{
+    /* height: 350px; */
+    transition: 1s;
+    box-shadow: 6px 0px 6px 0px rgba(0, 0, 0, 0.374);
+
+}
+img{
+    height: 200px;
+    width: 190px;
+    border-radius: 5px;
+}
+
+h3{
+    /* background-color: antiquewhite; */
+    height: 5px;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    text-decoration:dotted;
+}
+
+button{
+    height: 40px;
+    width: 190px;
+    background-image: linear-gradient(120deg, white,black,orange);
+    color: white;
+
+}

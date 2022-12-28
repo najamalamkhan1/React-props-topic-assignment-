@@ -1,0 +1,24 @@
+.navbar{
+    height: 45px;
+    width: 1349px;
+    background-image: linear-gradient(200deg,white,white);
+    text-align: end;
+    position: sticky;
+    top: 0;
+    box-shadow: 5px 0px 5px 0px whitesmoke;
+    margin-bottom: 50px;
+}
+ul{
+    margin: 15px;
+    display: inline-flex;  
+}
+li{
+    list-style: none;
+}
+a{
+    margin: 40px;
+    text-decoration: none;
+    font-size: large;
+    color: black;
+    margin-bottom: 50px;
+}
