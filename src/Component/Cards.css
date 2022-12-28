@@ -1,8 +1,8 @@
 .container{
     background-image: linear-gradient(170deg, whitesmoke,orange,whitesmoke);
-    height: 345px;
+    height: 290px;
     width: 190px;
-    margin: 9px;
+    margin: 17.5px;
     border: 2px solid wheat;
     border-radius: 5px;
     box-shadow: 5px 0px 5px 0px antiquewhite;
@@ -36,7 +36,8 @@ p{
 button{
     height: 40px;
     width: 190px;
-    background-image: linear-gradient(120deg, white,black,orange);
+    background-image: linear-gradient(120deg,skyblue,red);
     color: white;
+    border-radius: 50px;
 
 }

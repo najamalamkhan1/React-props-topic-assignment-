@@ -7,6 +7,7 @@ function Navbar(props) {
     <>
     <div className="navbar">
         <ul>
+    <h1>{item.logo}</h1>
             <li>
                 <a href="">{item.home}</a>
             </li>

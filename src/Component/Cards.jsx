@@ -8,8 +8,6 @@ function Cards(props) {
     <div className="container">
         <img src={item.img} />
         <h3>{item.name}</h3>
-        <h4>{item.prize}</h4>
-        {/* <p>{item.description}</p> */}
         <button>{item.button}</button>
     </div>
     </>

@@ -1,5 +1,5 @@
 .navbar{
-    height: 45px;
+    height: 75px;
     width: 1349px;
     background-image: linear-gradient(200deg,white,white);
     text-align: end;
@@ -9,7 +9,7 @@
     margin-bottom: 50px;
 }
 ul{
-    margin: 15px;
+    margin: 30px;
     display: inline-flex;  
 }
 li{
@@ -20,5 +20,20 @@ a{
     text-decoration: none;
     font-size: large;
     color: black;
-    margin-bottom: 50px;
+    /* margin-top: 70px; */
+}
+h1{
+    position: relative;
+    right: 480px;
+    bottom: 35px;
+    font-family: 'Fasthand', cursive;
+}
+@media (max-width=300px) {
+    a{
+        height: 35px;
+        width: 674.5;
+        margin: 10px;
+    }
+
+    
 }
